@@ -13,7 +13,7 @@ decode_results results;
 #define DISPLAYS_HIGH 1
 
 SoftDMD dmd(DISPLAYS_WIDE, DISPLAYS_HIGH);
-DMD_TextBox box(dmd, 0, 0, 64, 16); // 32,16 64,16 can you change
+DMD_TextBox box(dmd, 0, 0, 64, 16); // 32,16 64,16 you can change
 
 #define BUTTON1 16753245
 
